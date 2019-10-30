@@ -1,6 +1,6 @@
-package Test_30_Oct.LearnAutomation;
+package utilityClass;
 
-public class Test1 {
+public class DriverUtil {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
