@@ -2,23 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="41749" started-at="2019-11-04T13:21:16Z" finished-at="2019-11-04T13:21:58Z">
+  <suite name="Default suite" duration-ms="35878" started-at="2019-11-07T06:56:57Z" finished-at="2019-11-07T06:57:33Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="41749" started-at="2019-11-04T13:21:16Z" finished-at="2019-11-04T13:21:58Z">
+    <test name="Default test" duration-ms="35878" started-at="2019-11-07T06:56:57Z" finished-at="2019-11-07T06:57:33Z">
       <class name="testCases.ExecuteCases">
-        <test-method status="PASS" signature="driverInitilization()[pri:0, instance:testCases.ExecuteCases@482f8f11]" name="driverInitilization" is-config="true" duration-ms="15717" started-at="2019-11-04T13:21:16Z" finished-at="2019-11-04T13:21:32Z">
+        <test-method status="PASS" signature="driverInitilization()[pri:0, instance:testCases.ExecuteCases@457e2f02]" name="driverInitilization" is-config="true" duration-ms="12173" started-at="2019-11-07T06:56:57Z" finished-at="2019-11-07T06:57:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- driverInitilization -->
-        <test-method status="PASS" signature="userRegisterationWithInvalidDetails()[pri:0, instance:testCases.ExecuteCases@482f8f11]" name="userRegisterationWithInvalidDetails" duration-ms="24806" started-at="2019-11-04T13:21:32Z" finished-at="2019-11-04T13:21:56Z">
+        <test-method status="PASS" signature="UserRegistrationWithInvalidDetails()[pri:0, instance:testCases.ExecuteCases@457e2f02]" name="UserRegistrationWithInvalidDetails" duration-ms="23459" started-at="2019-11-07T06:57:09Z" finished-at="2019-11-07T06:57:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- userRegisterationWithInvalidDetails -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:testCases.ExecuteCases@482f8f11]" name="TearDown" is-config="true" duration-ms="1125" started-at="2019-11-04T13:21:56Z" finished-at="2019-11-04T13:21:58Z">
+        </test-method> <!-- UserRegistrationWithInvalidDetails -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:testCases.ExecuteCases@457e2f02]" name="CloseBrowser" is-config="true" duration-ms="114" started-at="2019-11-07T06:57:33Z" finished-at="2019-11-07T06:57:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TearDown -->
+        </test-method> <!-- CloseBrowser -->
       </class> <!-- testCases.ExecuteCases -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
