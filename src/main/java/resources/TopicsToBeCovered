@@ -1,0 +1,6 @@
+Explain - WebDriver driver = new ChromeDriver();
+Different between getwindowhandle and getwindowhandles ?
+How to handle alerts box ?
+How to handle mouse and keyboard events? - thorugh actions class but need method name like right click?
+Give example of method overloading and overridding and constructor overloading ?
+upcasting and downcasting
